@@ -13,13 +13,13 @@
     <thead align="center">
       <tr>
         <td width="170px">
-          <ins><b><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=65&duration=1000&pause=300&color=F0FFFF&center=true&vCenter=true&repeat=false&width=611&lines=FANDOMS" alt="FANDOMS" title="FANDOMS"   /b></ins>
+          <ins><b><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&height=80&size=80&duration=1000&pause=300&color=F0FFFF&center=true&vCenter=true&repeat=false&width=611&lines=FANDOMS" alt="FANDOMS" title="FANDOMS"   /b></ins>
         </td>
         <td width="271px">
-          <ins><b><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=60&duration=1000&pause=300&color=F0FFFF&center=true&vCenter=true&repeat=false&width=611&lines=PEOPLE" alt="PEOPLE" title="PEOPLE"  /b></ins>
+          <ins><b><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&height=80&size=70&duration=1000&pause=300&color=F0FFFF&center=true&vCenter=true&repeat=false&width=611&lines=PEOPLE" alt="PEOPLE" title="PEOPLE"  /b></ins>
         </td>
         <td width="170px">
-          <ins><b><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=65&duration=1000&pause=300&color=F0FFFF&center=true&vCenter=true&repeat=false&width=611&lines=OTHER+STUFF" alt="OTHER STUFF" title="OTHER STUFF"  /b></ins>
+          <ins><b><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&height=80&size=80&duration=1000&pause=300&color=F0FFFF&center=true&vCenter=true&repeat=false&width=611&lines=OTHER+STUFF" alt="OTHER STUFF" title="OTHER STUFF"  /b></ins>
         </td>
       </tr>
     </thead>
